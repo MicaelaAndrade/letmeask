@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/logo.svg" alt="letmeask" width="300"/>
+   <img src="https://user-images.githubusercontent.com/53954022/123561477-d5ef1a00-d77e-11eb-99c3-32e009327b92.png" alt="letmeask" width="300"/>
 </p>
 
 <p align="center">
@@ -16,9 +16,6 @@ Projeto desenvolvido durante a Next Level Week #6 da [Rocketseat](https://rocket
 
 - [Layout Web](<https://www.figma.com/file/ITmt54Pz9ssMKU3pRMPHLS/Letmeask-(Copy)?node-id=0%3A1>)
 
-### Acesse a demo:
-
-(em breve)
 
 ## Tecnologias utilizadas
 
